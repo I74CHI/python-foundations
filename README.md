@@ -4,27 +4,27 @@
 - This repository contains my Python foundation learning code. It is created for practice and revision of core Python concepts.
 
 ### Purpose
-• Build strong Python fundamentals
-• Practice concepts learned in coursework and self study
-• Use as a reference for future projects
+- Build strong Python fundamentals
+- Practice concepts learned in coursework and self study
+- Use as a reference for future projects
 
 ### Topics Covered
-• Python syntax and basics\n
-• Variables\n
-• Data Types\n
-• I/O\n
-• Operators\n
-• Loops\n
-• if/else\n
-• Functions\n
-• Lists\n
-• Tuple\n
-• Set\n
-• Dictonary\n
-• File Handling\n
-• OOP\n
-• Error Handling\n
-• Modules
+- Python syntax and basics
+- Variables
+- Data Types
+- I/O
+- Operators
+- Loops
+- if/else
+- Functions
+- Lists
+- Tuple
+- Set
+- Dictonary
+- File Handling
+- OOP
+- Error Handling
+- Modules
 
 ### Note
 - This repository is for learning purposes only.
