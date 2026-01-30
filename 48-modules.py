@@ -115,3 +115,22 @@ for p in sys.path:
     print(p)
 
 # Explanation : Python checks each path in order until it finds the module you're trying to import
+
+"""help() function"""
+#   The help() function displays documentation of a user-defined module using its docstrings.
+
+"""
+The help() function shows:
+• module description
+• functions
+• classes
+• docstrings (comments written inside """ """)
+It is used to understand how a module works."""
+
+import calc
+# help(calc)
+print(dir(calc))
+
+"""
+Use dir() to see what exists
+Use help() to know how it works"""
