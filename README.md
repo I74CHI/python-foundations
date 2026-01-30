@@ -9,21 +9,21 @@
 • Use as a reference for future projects
 
 ### Topics Covered
-• Python syntax and basics
-• Variables
-• Data Types
-• I/O
-• Operators
-• Loops
-• if/else
-• Functions
-• Lists
-• Tuple
-• Set
-• Dictonary
-• File Handling
-• OOP
-• Error Handling
+• Python syntax and basics\n
+• Variables\n
+• Data Types\n
+• I/O\n
+• Operators\n
+• Loops\n
+• if/else\n
+• Functions\n
+• Lists\n
+• Tuple\n
+• Set\n
+• Dictonary\n
+• File Handling\n
+• OOP\n
+• Error Handling\n
 • Modules
 
 ### Note
