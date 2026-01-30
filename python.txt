@@ -1,0 +1,5 @@
+Student Alice (ID: 1023) joined the Python course in batch #3 on 12-08-2025 and paid a fee of $2500.75. She scored 85.5 marks and her result status is True, which means she passed successfully. The course covers topics like loops, functions, and file handling, and symbols such as @ and # are commonly used in examples.
+
+Student Bob (ID: 1045) enrolled in the same course on 15-08-2025 but paid a reduced fee of $2000.00. He scored 72 marks and his result status is True. Bob enjoys practicing programs related to lists, dictionaries, and sets, and often uses symbols like % and & while coding.
+
+The Python Programming course has a total of 30 students, and classes are held 5 days a week. The average score of the class is 78.25, and 28 students have passed so far. Special symbols like $, *, and ! appear in file handling and pattern problems, making practice more interesting.
